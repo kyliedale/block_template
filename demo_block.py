@@ -4,7 +4,7 @@ from nio.metadata.properties import VersionProperty
 
 
 @Discoverable(DiscoverableType.block)
-class Example(Block):
+class Demo(Block):
 
     """ This is the Example block. Put a brief description here. """
 
