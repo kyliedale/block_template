@@ -4,7 +4,7 @@ from nio.properties import VersionProperty
 
 
 @discoverable
-class Example(Block):
+class Demo(Block):
 
     version = VersionProperty('0.1.0')
 
